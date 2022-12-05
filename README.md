@@ -34,7 +34,19 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 • Buat flowchart dan penjelasan programnya pada README.md.
 
 • Commit dan push repository ke github.
+## Flowchart
+![Flowcharts(1)](https://user-images.githubusercontent.com/115929351/205641925-c98e4055-a703-4356-8e49-4a841ef03f10.png)
 
+Penjelasan
+
+1. Mulai
+2. Membuat keputusan pada tampilan opsi menu, untuk memilih no berapa pada menu
+3. Menginput secara manual untuk menu insert (menambah data) dan menu edit (mengubah data)
+4. Proses data dari menu yang dipilih serta data yang diinput
+5. Menampilkan output tabel data mahasiswa untuk menu insert (tambah data) dan menu edit (ubah data)
+6. Membuat keputusan kembali, dengan menampilkan opsi menu apakah ingin memilih opsi atau exit. Jika "y" maka program akan berhenti atau keluar
+7. Selesai
+ 
 ## Step by Step
 ![carbon(4)](https://user-images.githubusercontent.com/115929351/205602494-7ed54f89-f064-4f9b-acec-fbbfc83e3712.png)
 
@@ -75,6 +87,7 @@ Dan menggunakan integer sebagai inputan serta statemnent if, untuk kondisi jiika
 ![exit](https://user-images.githubusercontent.com/115929351/205626047-a9666d8f-ca9e-4f07-a13a-ee9199fbbb50.png)
 5. Dan terakhir adalah opsi menu exit, ketika user memutuskan untuk tidak lagi menampilkan menu atau "t", maka akan otomatis keluar dari program tersebut.
 
+# Thanks for Read Everyone
  
 
 
