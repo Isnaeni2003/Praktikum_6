@@ -37,7 +37,7 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 ## Flowchart
 ![Flowcharts(1)](https://user-images.githubusercontent.com/115929351/205641925-c98e4055-a703-4356-8e49-4a841ef03f10.png)
 
-Penjelasan
+Penjelasan :
 
 1. Mulai
 2. Membuat keputusan pada tampilan opsi menu, untuk memilih no berapa pada menu
@@ -56,7 +56,7 @@ Penjelasan
 
 3. Menu Insert untuk menambahkan data mahasiswa baru, saya membuat inputan "Nama, NIM, Nilai" kemudian membuat satu dictionary yang berisi item tersebut kemudian menggabungkannya dengan append. Dan kembali mengguanakan statement for untuk mengulang kembali tabel data mahsiswa.
 
-4. Menu Edit untuk melakukan perubahan pada data mahasiswa, saya membuat variabel integer serta string untuk membuuat pilihan apakah melakukan perubahan pada (Nama, NIM< atau Nilai) dan variabel nilai untuk membuat inputan peruabhan apa yang akan diinput.Dan membuat indeks seperti data[][] untuk menentukan posisi mana yang akan diubah/diedit.
+4. Menu Edit untuk melakukan perubahan pada data mahasiswa, saya membuat variabel integer serta string untuk membuuat pilihan apakah melakukan perubahan pada (Nama, NIM, atau Nilai) dan variabel nilai untuk membuat inputan peruabhan apa yang akan diinput.Dan membuat indeks seperti data[][] untuk menentukan posisi mana yang akan diubah/diedit.
 
 5. Menu Delete untuk menghapus data mahasiswa, saya membuat variabel inputan untuk menanyakan nomor berapa yang ingin dihapus serta menggunakan methods pop untuk menghapus sebaris atau  pada data jika menggunakan clear maka menghapus smua item yang ada di dalam data.
 
